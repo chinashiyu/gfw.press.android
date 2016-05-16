@@ -1,0 +1,37 @@
+<!--
+    * GFW.Press
+    * Copyright (C) 2016  chinashiyu ( chinashiyu@gfw.press ; http://gfw.press )
+    * <p>
+    * This program is free software: you can redistribute it and/or modify
+    * it under the terms of the GNU General Public License as published by
+    * the Free Software Foundation, either version 3 of the License, or
+    * (at your option) any later version.
+    * <p>
+    * This program is distributed in the hope that it will be useful,
+    * but WITHOUT ANY WARRANTY; without even the implied warranty of
+    * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    * GNU General Public License for more details.
+    * <p>
+    * You should have received a copy of the GNU General Public License
+    * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+    *-->
+<resources>
+    <string name="app_name">GFW.Press</string>
+
+    <string name="pref_title_switch">运行开关</string>
+
+    <string name="pref_title_server">节点地址</string>
+    <string name="pref_default_server">149.56.130.175</string>
+
+    <string name="pref_title_port">节点端口</string>
+    <string name="pref_default_port"></string>
+
+    <string name="pref_title_password">连接密码</string>
+    <string name="pref_default_password"></string>
+
+    <string name="pref_title_listen_port">本地端口</string>
+    <string name="pref_default_listen_port">3128</string>
+
+    <string name="_notification_title_template">: %1$s</string>
+
+</resources>
